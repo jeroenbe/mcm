@@ -1,0 +1,3 @@
+[submodule "causalml"]
+	path = causalml
+	url = https://github.com/uber/causalml
