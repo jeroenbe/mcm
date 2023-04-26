@@ -44,7 +44,7 @@ If you use this code, please cite the associated paper:
 
 ```
 
-@InProceedings{pmlr-v206-berrevoets23a,
+@InProceedings{mcm23,
   title = 	 {To Impute or not to Impute? Missing Data in Treatment Effect Estimation},
   author =       {Berrevoets, Jeroen and Imrie, Fergus and Kyono, Trent and Jordon, James and van der Schaar, Mihaela},
   booktitle = 	 {Proceedings of The 26th International Conference on Artificial Intelligence and Statistics},
